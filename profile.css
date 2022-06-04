@@ -1,0 +1,45 @@
+.background{
+    background-color: white;
+}
+.main-heading{
+    color: purple;
+    text-transform: capitalize;
+    font-family: roboto;
+    font-weight: 900;
+    font-size: 40px;
+}
+.image-profile{
+    height: 50vh;
+    border-radius: 180px;
+}
+.intro-para{
+    color: black;
+    font-size: 17px;
+}
+.intro-head{
+    font-size: 20px;
+}
+.auto{
+    margin-left: auto;
+}
+.list{
+    list-style-type: none;
+}
+.color{
+    border-color: transparent !important;
+}
+.span{
+    font-weight: 500;
+}
+.span2{
+    color: blue;
+    font-weight: 500;
+}
+.button{
+    width: 120px;
+    background-color: bisque;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: beige;
+}
