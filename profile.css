@@ -1,4 +1,4 @@
-.background{
+        .background{
     background-color: white;
 }
 .main-heading{
@@ -10,6 +10,10 @@
 }
 .image-profile{
     height: 50vh;
+    border-radius: 180px;
+}
+.image-profile-sm{
+    height: 30vh;
     border-radius: 180px;
 }
 .intro-para{
@@ -34,12 +38,13 @@
 .span2{
     color: blue;
     font-weight: 500;
+
 }
 .button{
     width: 120px;
-    background-color: bisque;
+    background-color: rgb(176, 154, 221);
     border-radius: 15px;
     border-width: 2px;
     border-style: solid;
-    border-color: beige;
+    border-color:black;;
 }
